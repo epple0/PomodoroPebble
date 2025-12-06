@@ -12,10 +12,10 @@ This is the PCB:
 
 The case will fit together with glue and magnets to ensure reopenability and easy access to the internals.
 
-BOM:
-Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
-D1,D2,D3,D4	4	RGB LED For Fun				LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm	https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-J1	1	OLED Screen Connector				OLED screen:SSD1306-0.91-OLED-4pin-128x32	~
-SW1	1	Start/Stop				Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB	~
-SW2	1	Reset				Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB	~
-U2	1	XIAO-RP2040-DIP				OPL:XIAO-RP2040-DIP	
+BOM: <br>
+-Seeed XIAO RP2040
+-MX-Style Mechanical Switches (x2)
+-SK6812 MINI-E LEDs (x4)
+-0.91 inch OLED Display (I2C, 128x32)
+-DSA Keycaps (x2)
+-1x04 Pin Header (Female, 2.54mm pitch)
