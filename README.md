@@ -3,6 +3,9 @@ The PomodoroPebble is a project that is meant to help everyone focus. The Pomodo
 
 This is what the PomodoroPebble looks like:
 
+<img width="1396" height="794" alt="image" src="https://github.com/user-attachments/assets/59d5eaeb-8b12-4a45-aa4c-614b8c728676" />
+
+
 <img width="1333" height="790" alt="image" src="https://github.com/user-attachments/assets/5e19a795-0569-44d8-abdc-530b6d2c7079" />
 <img width="1360" height="795" alt="image" src="https://github.com/user-attachments/assets/a88aa6a3-5ae2-43cb-bbf3-517190ccb1a7" />
 
